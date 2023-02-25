@@ -1,11 +1,11 @@
-public class Usuario {
+public class Estudiante {
 
     private String nombre;
     private String password;
     private String fechaNacimiento;
 
 
-    public Usuario(String nombre, String password, String fechaNacimiento) {
+    public Estudiante(String nombre, String password, String fechaNacimiento) {
         this.nombre = nombre;
         this.password = password;
         this.fechaNacimiento = fechaNacimiento;
